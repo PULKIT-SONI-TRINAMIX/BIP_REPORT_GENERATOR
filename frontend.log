@@ -1,0 +1,51 @@
+
+> ai-app@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3001
+
+ ✓ Starting...
+ ✓ Ready in 3.8s
+ ○ Compiling /studio ...
+ ✓ Compiled /studio in 12.1s (596 modules)
+ GET /studio 200 in 12750ms
+ ✓ Compiled in 631ms (282 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 8.8s (1585 modules)
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+ GET / 200 in 9823ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1578ms (845 modules)
+ GET /favicon.ico 200 in 2145ms
+ GET /studio 200 in 330ms
+ GET /favicon.ico 200 in 35ms
+ GET /studio 200 in 83ms
+ GET /favicon.ico 200 in 19ms
+ GET /studio 200 in 106ms
+ GET /favicon.ico 200 in 23ms
+ GET /studio 200 in 83ms
+ GET /favicon.ico 200 in 18ms
+ GET /studio 200 in 135ms
+ GET /favicon.ico 200 in 62ms
+ GET /studio 200 in 89ms
+ GET /favicon.ico 200 in 17ms
+ ○ Compiling /knowledge ...
+ ✓ Compiled /knowledge in 3s (1146 modules)
+ ✓ Compiled in 770ms (792 modules)
+ GET /studio 200 in 238ms
+ GET /favicon.ico 200 in 51ms
+ GET /studio 200 in 102ms
+ GET /favicon.ico 200 in 24ms

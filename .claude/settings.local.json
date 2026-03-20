@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'c:\\\\Users\\\\KalpeshPadmawar\\\\OneDrive - Trinamix Systems Pvt Ltd\\\\Desktop\\\\Vibe Coding Projects\\\\AI-Powered Oracle SQL Generator' -not -path */node_modules/* -not -path */.next/* -type f -o -type d)"
+    ]
+  }
+}
